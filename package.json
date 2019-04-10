@@ -1,0 +1,14 @@
+{
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "description": "Simple Web Node With Docker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
